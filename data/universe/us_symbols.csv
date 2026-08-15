@@ -49,8 +49,11 @@ ACNB,ACNB,ACNB Corporation - Common Stock,False,False,nasdaq
 ACNT,ACNT,Ascent Industries Co. - Common Stock,False,False,nasdaq
 ACOG,ACOG,Alpha Cognition Inc. - Common Stock,False,False,nasdaq
 ACON,ACON,"Aclarion, Inc. - Common Stock",False,False,nasdaq
+ACQQ,ACQQ,ProShares Nasdaq-100 Autocallable Income ETF,True,False,nasdaq
 ACRS,ACRS,"Aclaris Therapeutics, Inc. - Common Stock",False,False,nasdaq
+ACRT,ACRT,ProShares Russell 2000 Autocallable Income ETF,True,False,nasdaq
 ACRV,ACRV,"Acrivon Therapeutics, Inc. - Common Stock",False,False,nasdaq
+ACSP,ACSP,ProShares S&P 500 Autocallable Income ETF,True,False,nasdaq
 ACT,ACT,"Enact Holdings, Inc. - Common Stock",False,False,nasdaq
 ACTG,ACTG,Acacia Research Corporation - Common Stock,False,False,nasdaq
 ACTU,ACTU,"Actuate Therapeutics, Inc. - Common stock",False,False,nasdaq
@@ -84,7 +87,6 @@ AEP,AEP,"American Electric Power Company, Inc. - Common Stock",False,False,nasda
 AERT,AERT,"Aeries Technology, Inc. - Class A Ordinary Share",False,False,nasdaq
 AEVA,AEVA,"Aeva Technologies, Inc. - Common Stock",False,False,nasdaq
 AEYE,AEYE,"AudioEye, Inc. - Common Stock",False,False,nasdaq
-AFBI,AFBI,"Affinity Bancshares, Inc. - Common Stock",False,False,nasdaq
 AFCG,AFCG,Advanced Flower Capital Inc. - Common Stock,False,False,nasdaq
 AFJK,AFJK,"Aimei Health Technology Co., Ltd - Ordinary Share",False,False,nasdaq
 AFOS,AFOS,ARS Focused Opportunity Strategy ETF,True,False,nasdaq
@@ -224,6 +226,7 @@ ANGH,ANGH,Anghami Inc. - Ordinary Shares,False,False,nasdaq
 ANGI,ANGI,Angi Inc. - Class A Common Stock,False,False,nasdaq
 ANGL,ANGL,VanEck Fallen Angel High Yield Bond ETF,True,False,nasdaq
 ANGO,ANGO,"AngioDynamics, Inc. - Common Stock",False,False,nasdaq
+ANGU,ANGU,SEI Ang Research Enhanced U.S. Large Cap ETF,True,False,nasdaq
 ANIK,ANIK,Anika Therapeutics Inc. - Common Stock,False,False,nasdaq
 ANIP,ANIP,"ANI Pharmaceuticals, Inc. - Common Stock",False,False,nasdaq
 ANIX,ANIX,"Anixa Biosciences, Inc. - Common Stock",False,False,nasdaq
@@ -244,6 +247,7 @@ APEI,APEI,"American Public Education, Inc. - Common Stock",False,False,nasdaq
 APGE,APGE,"Apogee Therapeutics, Inc. - Common Stock",False,False,nasdaq
 APLD,APLD,Applied Digital Corporation - Common Stock,False,False,nasdaq
 APLM,APLM,Apollomics Inc. - Class A Ordinary Shares,False,False,nasdaq
+APMD,APMD,"Apnimed, Inc. - Common Stock",False,False,nasdaq
 APOG,APOG,"Apogee Enterprises, Inc. - Common Stock",False,False,nasdaq
 APP,APP,Applovin Corporation - Class A Common Stock,False,False,nasdaq
 APPF,APPF,"AppFolio, Inc. - Class A Common Stock",False,False,nasdaq
@@ -329,6 +333,7 @@ ATPC,ATPC,Agape ATP Corporation - Common Stock,False,False,nasdaq
 ATRA,ATRA,"Atara Biotherapeutics, Inc. - Common Stock",False,False,nasdaq
 ATRC,ATRC,"AtriCure, Inc. - Common Stock",False,False,nasdaq
 ATRO,ATRO,Astronics Corporation - Common Stock,False,False,nasdaq
+ATTO,ATTO,"Attovia Therapeutics, Inc. - Common Stock",False,False,nasdaq
 ATXG,ATXG,Addentax Group Corp. - Common Stock,False,False,nasdaq
 ATYR,ATYR,"aTyr Pharma, Inc. - Common Stock",False,False,nasdaq
 AUBN,AUBN,"Auburn National Bancorporation, Inc. - Common Stock",False,False,nasdaq
@@ -439,7 +444,6 @@ BEEZ,BEEZ,Honeytree U.S. Equity ETF,True,False,nasdaq
 BEG,BEG,Leverage Shares 2x Long BE Daily ETF,True,False,nasdaq
 BELFA,BELFA,Bel Fuse Inc. - Class A Common Stock,False,False,nasdaq
 BELFB,BELFB,Bel Fuse Inc. - Class B Common Stock,False,False,nasdaq
-BELT,BELT,iShares U.S. Select Equity Active ETF,True,False,nasdaq
 BENF,BENF,Beneficient - Class A Common Stock,False,False,nasdaq
 BESO,BESO,GSR Crypto Core3 ETF,True,False,nasdaq
 BETR,BETR,Better Home & Finance Holding Company - Class A Common Stock,False,False,nasdaq
@@ -501,6 +505,7 @@ BLMN,BLMN,"Bloomin' Brands, Inc. - Common Stock",False,False,nasdaq
 BLNE,BLNE,"Beeline Holdings, Inc. - Common Stock",False,False,nasdaq
 BLNK,BLNK,Blink Charging Co. - Common Stock,False,False,nasdaq
 BLSG,BLSG,Leverage Shares 2X Long BLSH Daily ETF,True,False,nasdaq
+BLSM,BLSM,"BlossomHill Therapeutics, Inc. - Common Stock",False,False,nasdaq
 BLZE,BLZE,"Backblaze, Inc. - Common Stock",False,False,nasdaq
 BMBL,BMBL,Bumble Inc. - common stock,False,False,nasdaq
 BMEA,BMEA,"Biomea Fusion, Inc. - Common Stock",False,False,nasdaq
@@ -521,9 +526,7 @@ BNDW,BNDW,Vanguard Total World Bond ETF,True,False,nasdaq
 BNDX,BNDX,Vanguard Total International Bond ETF,True,False,nasdaq
 BNGO,BNGO,"Bionano Genomics, Inc. - Common Stock",False,False,nasdaq
 BNKK,BNKK,"Bonk, Inc. - Common Stock",False,False,nasdaq
-BNRG,BNRG,Brenmiller Energy Ltd - Ordinary Shares,False,False,nasdaq
 BNTC,BNTC,Benitec Biopharma Inc. - Common Stock,False,False,nasdaq
-BNZI,BNZI,"Banzai International, Inc. - Class A Common Stock",False,False,nasdaq
 BODI,BODI,"The Beachbody Company, Inc. - Class A Common Stock",False,False,nasdaq
 BOEG,BOEG,Leverage Shares 2X Long BA Daily ETF,True,False,nasdaq
 BOEU,BOEU,Direxion Daily BA Bull 2X ETF,True,False,nasdaq
@@ -553,12 +556,14 @@ BRKR,BRKR,Bruker Corporation - Common Stock,False,False,nasdaq
 BRKU,BRKU,Direxion Daily BRKB Bull 2X ETF,True,False,nasdaq
 BRLS,BRLS,Borealis Foods Inc. - Class A Common Shares,False,False,nasdaq
 BRLT,BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",False,False,nasdaq
+BRNX,BRNX,BrenX Ltd. - Ordinary Shares,False,False,nasdaq
 BRNY,BRNY,Burney U.S. Factor Rotation ETF,True,False,nasdaq
 BRR,BRR,"ProCap Financial, Inc. - Common Stock",False,False,nasdaq
 BRRR,BRRR,Coinshares Bitcoin ETF,True,False,nasdaq
 BRTR,BRTR,iShares Total Return Active ETF,True,False,nasdaq
 BRTX,BRTX,"BioRestorative Therapies, Inc. - Common Stock",False,False,nasdaq
 BRUN,BRUN,Boost Run Inc. - Class A Common Stock,False,False,nasdaq
+BRVE,BRVE,"Braveheart Bio, Inc. - Common Stock",False,False,nasdaq
 BRZE,BRZE,"Braze, Inc. - Class A Common Stock",False,False,nasdaq
 BSBK,BSBK,Bogota Financial Corp. - Common Stock,False,False,nasdaq
 BSCA,BSCA,Invesco BulletShares 2036 Corporate Bond ETF,True,False,nasdaq
@@ -572,6 +577,7 @@ BSCW,BSCW,Invesco BulletShares 2032 Corporate Bond ETF,True,False,nasdaq
 BSCX,BSCX,Invesco BulletShares 2033 Corporate Bond ETF,True,False,nasdaq
 BSCY,BSCY,Invesco BulletShares 2034 Corporate Bond ETF,True,False,nasdaq
 BSCZ,BSCZ,Invesco BulletShares 2035 Corporate Bond ETF,True,False,nasdaq
+BSEM,BSEM,"BioStem Technologies, Inc. - Common Stock",False,False,nasdaq
 BSET,BSET,"Bassett Furniture Industries, Incorporated - Common Stock",False,False,nasdaq
 BSGR,BSGR,Invesco BulletShares 2027 Treasury Bond ETF,True,False,nasdaq
 BSGT,BSGT,Invesco BulletShares 2029 Treasury Bond ETF,True,False,nasdaq
@@ -693,6 +699,7 @@ CCB,CCB,Coastal Financial Corporation - Common Stock,False,False,nasdaq
 CCBG,CCBG,Capital City Bank Group - Common Stock,False,False,nasdaq
 CCC,CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,False,False,nasdaq
 CCCC,CCCC,"C4 Therapeutics, Inc. - Common Stock",False,False,nasdaq
+CCCT,CCCT,Columbus Circle Capital Corp III - Class A Ordinary Shares,False,False,nasdaq
 CCEC,CCEC,Capital Clean Energy Carriers Corp. - Common Share,False,False,nasdaq
 CCEP,CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares,False,False,nasdaq
 CCFE,CCFE,Concourse Capital Focused Equity ETF,True,False,nasdaq
@@ -756,6 +763,7 @@ CGEN,CGEN,Compugen Ltd. - Ordinary Shares,False,False,nasdaq
 CGNT,CGNT,Cognyte Software Ltd. - Ordinary Shares,False,False,nasdaq
 CGNX,CGNX,Cognex Corporation - Common Stock,False,False,nasdaq
 CGON,CGON,"CG Oncology, Inc. - Common stock",False,False,nasdaq
+CGPT,CGPT,VegaShares AI Inference ETF,True,False,nasdaq
 CGTL,CGTL,Creative Global Technology Holdings Limited - Class A Ordinary Shares,False,False,nasdaq
 CGTX,CGTX,"Cognition Therapeutics, Inc. - Common Stock",False,False,nasdaq
 CHAI,CHAI,"Core AI Holdings, Inc. - Common Shares",False,False,nasdaq
@@ -832,9 +840,11 @@ CNCK,CNCK,Coincheck Group N.V. - Ordinary Shares,False,False,nasdaq
 CNDT,CNDT,Conduent Incorporated - Common Stock,False,False,nasdaq
 CNET,CNET,ZW Data Action Technologies Inc. - Common Stock,False,False,nasdaq
 CNEY,CNEY,CN Energy Group Inc. - Class A Ordinary Shares,False,False,nasdaq
+CNL,CNL,Collective Mining Ltd. - Common Stock,False,False,nasdaq
 CNOB,CNOB,"ConnectOne Bancorp, Inc. - Common Stock",False,False,nasdaq
 CNQQ,CNQQ,Rayliant-ChinaAMC Transformative China Tech ETF,True,False,nasdaq
 CNSP,CNSP,"CNS Pharmaceuticals, Inc. - Common Stock",False,False,nasdaq
+CNSY,CNSY,"Cerenome, Inc. - Common Stock",False,False,nasdaq
 CNTB,CNTB,Connect Biopharma Holdings Limited - Ordinary Shares,False,False,nasdaq
 CNTN,CNTN,"Canton Strategic Holdings, Inc. - Common Stock",False,False,nasdaq
 CNTX,CNTX,Context Therapeutics Inc. - Common Stock,False,False,nasdaq
@@ -863,6 +873,7 @@ CONI,CONI,GraniteShares 2x Short COIN Daily ETF,True,False,nasdaq
 CONL,CONL,GraniteShares 2x Long COIN Daily ETF,True,False,nasdaq
 CONX,CONX,Direxion Daily COIN Bull 2X ETF,True,False,nasdaq
 COO,COO,"The Cooper Companies, Inc.  - Common Stock",False,False,nasdaq
+COOL,COOL,"VegaShares AI Thermal, Cooling & Power Management ETF",True,False,nasdaq
 COOT,COOT,Australian Oilseeds Holdings Limited - Ordinary Shares,False,False,nasdaq
 COPJ,COPJ,Sprott Junior Copper Miners ETF,True,False,nasdaq
 COPP,COPP,Sprott Copper Miners ETF,True,False,nasdaq
@@ -1039,6 +1050,7 @@ DJT,DJT,Trump Media & Technology Group Corp. - Common Stock,False,False,nasdaq
 DKI,DKI,DarkIris Inc. - Class A Ordinary Shares,False,False,nasdaq
 DKNG,DKNG,DraftKings Inc. - Class A Common Stock,False,False,nasdaq
 DKNX,DKNX,Defiance Daily Target 2X Long DKNG ETF,True,False,nasdaq
+DLCU,DLCU,U.S. Large Company Portfolio: ETF Class Shares,True,False,nasdaq
 DLHC,DLHC,DLH Holdings Corp. - Common Stock,False,False,nasdaq
 DLLL,DLLL,GraniteShares 2x Long DELL Daily ETF,True,False,nasdaq
 DLO,DLO,DLocal Limited - Class A Common Shares,False,False,nasdaq
@@ -1130,7 +1142,6 @@ DYNB,DYNB,Hartford Dynamic Bond ETF,True,False,nasdaq
 DYNC,DYNC,Dynamix Corporation - Class A Ordinary Share,False,False,nasdaq
 DYOR,DYOR,Insight Digital Partners II - Class A Ordinary Shares,False,False,nasdaq
 DYTA,DYTA,SGI Dynamic Tactical ETF,True,False,nasdaq
-EA,EA,Electronic Arts Inc. - Common Stock,False,False,nasdaq
 EART,EART,Global X Rare Earth & Critical Materials ETF,True,False,nasdaq
 EASY,EASY,Liberty One Defensive Dividend Growth ETF,True,False,nasdaq
 EBAY,EBAY,eBay Inc. - Common Stock,False,False,nasdaq
@@ -1185,7 +1196,6 @@ ELOG,ELOG,Eastern International Ltd. - Ordinary Shares,False,False,nasdaq
 ELOL,ELOL,Leverage Shares 100% TSLA AND 100% SPCX Daily ETF,True,False,nasdaq
 ELOX,ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",False,False,nasdaq
 ELPW,ELPW,Elong Power Holding Limited - Class A Ordinary Shares,False,False,nasdaq
-ELSE,ELSE,"Electro-Sensors, Inc. - Common Stock",False,False,nasdaq
 ELTK,ELTK,Eltek Ltd. - Ordinary Shares,False,False,nasdaq
 ELTX,ELTX,"Elicio Therapeutics, Inc. - Common Stock",False,False,nasdaq
 ELUT,ELUT,"Elutia, Inc. - Class A Common Stock",False,False,nasdaq
@@ -1574,6 +1584,7 @@ GGR,GGR,Gogoro Inc. - Ordinary Shares,False,False,nasdaq
 GGRP,GGRP,"The Glimpse Group, Inc. - Common Stock",False,False,nasdaq
 GH,GH,"Guardant Health, Inc. - Common Stock",False,False,nasdaq
 GHRS,GHRS,GH Research PLC - Ordinary Shares,False,False,nasdaq
+GHXI,GHXI,"Gores Holdings XI, Inc. - Class A Ordinary Shares",False,False,nasdaq
 GIBO,GIBO,GIBO Holdings Limited - Class A Ordinary Shares,False,False,nasdaq
 GIEQ,GIEQ,Goldman Sachs Data Enhanced International Equity ETF,True,False,nasdaq
 GIFT,GIFT,"Giftify, Inc. - Common Stock",False,False,nasdaq
@@ -1677,7 +1688,6 @@ GTX,GTX,Garrett Motion Inc. - Common Stock,False,False,nasdaq
 GURE,GURE,"Gulf Resources, Inc. - Common Stock",False,False,nasdaq
 GUSE,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,True,False,nasdaq
 GUTS,GUTS,"Fractyl Health, Inc. - Common Stock",False,False,nasdaq
-GV,GV,Visionary Holdings Inc. - Common Shares,False,False,nasdaq
 GVLE,GVLE,Goldman Sachs Value Opportunities ETF,True,False,nasdaq
 GWAV,GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",False,False,nasdaq
 GWRS,GWRS,"Global Water Resources, Inc. - common stock",False,False,nasdaq
@@ -2043,6 +2053,7 @@ JJSF,JJSF,J & J Snack Foods Corp. - Common Stock,False,False,nasdaq
 JKHY,JKHY,"Jack Henry & Associates, Inc. - Common Stock",False,False,nasdaq
 JL,JL,J-Long Group Limited - Class A Ordinary Shares,False,False,nasdaq
 JLHL,JLHL,Julong Holding Limited - Class A Ordinary Shares,False,False,nasdaq
+JLVP,JLVP,JPMorgan U.S. Large Cap Value Plus ETF,True,False,nasdaq
 JMID,JMID,Janus Henderson Mid Cap Growth Alpha ETF,True,False,nasdaq
 JMSB,JMSB,"John Marshall Bancorp, Inc. - Common Stock",False,False,nasdaq
 JOUT,JOUT,Johnson Outdoors Inc. - Class A Common Stock,False,False,nasdaq
@@ -2247,7 +2258,6 @@ LOTI,LOTI,Liberty One Tactical Income ETF,True,False,nasdaq
 LOVE,LOVE,The Lovesac Company - Common Stock,False,False,nasdaq
 LPCN,LPCN,Lipocine Inc. - Common Stock,False,False,nasdaq
 LPLA,LPLA,LPL Financial Holdings Inc. - Common Stock,False,False,nasdaq
-LPRO,LPRO,Open Lending Corporation - Common Stock,False,False,nasdaq
 LPSN,LPSN,"LivePerson, Inc. - Common Stock",False,False,nasdaq
 LPTH,LPTH,"LightPath Technologies, Inc. - Class A Common Stock",False,False,nasdaq
 LQ,LQ,Simplify Tax Aware Alternatives ETF,True,False,nasdaq
@@ -2262,11 +2272,11 @@ LSAK,LSAK,"Lesaka Technologies, Inc. - Common Stock",False,False,nasdaq
 LSBK,LSBK,"Lake Shore Bancorp, Inc. - Common Stock",False,False,nasdaq
 LSCC,LSCC,Lattice Semiconductor Corporation - Common Stock,False,False,nasdaq
 LSE,LSE,"Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",False,False,nasdaq
-LSH,LSH,Lakeside Holding Limited - Common Stock,False,False,nasdaq
 LSTA,LSTA,"Lisata Therapeutics, Inc. - Common Stock",False,False,nasdaq
 LSTR,LSTR,"Landstar System, Inc. - Common Stock",False,False,nasdaq
 LTBR,LTBR,Lightbridge Corporation - Common Stock,False,False,nasdaq
 LTCC,LTCC,Canary Litecoin ETF,True,False,nasdaq
+LTGO,LTGO,"Latigo Biotherapeutics, Inc. - Common Stock",False,False,nasdaq
 LTGR,LTGR,Long Table Growth Corp. - Class A Ordinary Shares,False,False,nasdaq
 LTRN,LTRN,Lantern Pharma Inc. - Common Stock,False,False,nasdaq
 LTRX,LTRX,"Lantronix, Inc. - Common Stock",False,False,nasdaq
@@ -2431,6 +2441,7 @@ MOVE,MOVE,"Corvex, Inc. - Common Stock",False,False,nasdaq
 MPAA,MPAA,"Motorcar Parts of America, Inc. - Common Stock",False,False,nasdaq
 MPB,MPB,Mid Penn Bancorp - Common Stock,False,False,nasdaq
 MPG,MPG,Leverage Shares 2X Long MP Daily ETF,True,False,nasdaq
+MPIA,MPIA,m+ Nasdaq-100 Accelerator Autocall ETF,True,False,nasdaq
 MPLT,MPLT,"MapLight Therapeutics, Inc. - Common Stock",False,False,nasdaq
 MPWR,MPWR,"Monolithic Power Systems, Inc. - Common Stock",False,False,nasdaq
 MQ,MQ,"Marqeta, Inc. - Class A Common Stock",False,False,nasdaq
@@ -2458,7 +2469,7 @@ MSFL,MSFL,GraniteShares 2x Long MSFT Daily ETF,True,False,nasdaq
 MSFT,MSFT,Microsoft Corporation - Common Stock,False,False,nasdaq
 MSFU,MSFU,Direxion Daily MSFT Bull 2X ETF,True,False,nasdaq
 MSGM,MSGM,Motorsport Games Inc. - Class A Common Stock,False,False,nasdaq
-MSGY,MSGY,Masonglory Limited - Ordinary Shares,False,False,nasdaq
+MSGY,MSGY,Masonglory Limited - Class A Ordinary Shares,False,False,nasdaq
 MSLE,MSLE,Satellos Bioscience Inc. - Common Stock,False,False,nasdaq
 MSR,MSR,GraniteShares Autocallable MSTR ETF,True,False,nasdaq
 MSS,MSS,Maison Solutions Inc. - Class A Common Stock,False,False,nasdaq
@@ -2540,6 +2551,7 @@ NCEL,NCEL,NewcelX Ltd. - Ordinary Shares,False,False,nasdaq
 NCEW,NCEW,New Century Logistics (BVI) Limited - Ordinary Shares,False,False,nasdaq
 NCI,NCI,Neo-Concept International Group Holdings Limited - Class A Ordinary Shares,False,False,nasdaq
 NCIQ,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,True,False,nasdaq
+NCLD,NCLD,Roundhill Neocloud ETF,True,False,nasdaq
 NCMI,NCMI,"National CineMedia, Inc. - Common Stock",False,False,nasdaq
 NCNO,NCNO,"nCino, Inc. - Common Stock",False,False,nasdaq
 NCPB,NCPB,Nuveen Core Plus Bond ETF,True,False,nasdaq
@@ -2645,7 +2657,6 @@ NUG,NUG,Leverage Shares 2X Long NU Daily ETF,True,False,nasdaq
 NUGY,NUGY,GraniteShares YieldBOOST Gold Miners ETF,True,False,nasdaq
 NUIF,NUIF,Nuveen US Infrastructure ETF,True,False,nasdaq
 NUSB,NUSB,Nuveen Ultra Short Income ETF,True,False,nasdaq
-NUTR,NUTR,Nusatrip Incorporated - Common Stock,False,False,nasdaq
 NUTX,NUTX,Nutex Health Inc. - Common Stock,False,False,nasdaq
 NUWE,NUWE,"Nuwellis, Inc. - Common Stock",False,False,nasdaq
 NVAX,NVAX,"Novavax, Inc. - Common Stock",False,False,nasdaq
@@ -2692,6 +2703,7 @@ OBIL,OBIL,US Treasury 12 Month Bill ETF,True,False,nasdaq
 OBIO,OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",False,False,nasdaq
 OBT,OBT,"Orange County Bancorp, Inc. - Common Stock",False,False,nasdaq
 OBTC,OBTC,Osprey Bitcoin Trust,True,False,nasdaq
+OBX,OBX,"Obsidian Therapeutics, Inc. - Common Stock",False,False,nasdaq
 OCC,OCC,Optical Cable Corporation - Common Stock,False,False,nasdaq
 OCFC,OCFC,OceanFirst Financial Corp. - Common Stock,False,False,nasdaq
 OCG,OCG,Oriental Culture Holding LTD - Ordinary Shares,False,False,nasdaq
@@ -2801,6 +2813,7 @@ PAMT,PAMT,PAMT CORP - Common Stock,False,False,nasdaq
 PANG,PANG,Leverage Shares 2X Long PANW Daily ETF,True,False,nasdaq
 PANL,PANL,Pangaea Logistics Solutions Ltd. - Common Stock,False,False,nasdaq
 PANW,PANW,"Palo Alto Networks, Inc. - Common Stock",False,False,nasdaq
+PARA,PARA,"Banzai International, Inc. - Class A Common Stock",False,False,nasdaq
 PARK,PARK,"Park Dental Partners, Inc. - Common Stock",False,False,nasdaq
 PASG,PASG,"Passage Bio, Inc. - Common Stock",False,False,nasdaq
 PASW,PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",False,False,nasdaq
@@ -3001,7 +3014,6 @@ PSL,PSL,Invesco Dorsey Wright Consumer Staples Momentum ETF,True,False,nasdaq
 PSMT,PSMT,"PriceSmart, Inc. - Common Stock",False,False,nasdaq
 PSNL,PSNL,"Personalis, Inc. - Common Stock",False,False,nasdaq
 PSTR,PSTR,PeakShares Sector Rotation ETF,True,False,nasdaq
-PSTV,PSTV,"PLUS THERAPEUTICS, Inc. - Common Stock",False,False,nasdaq
 PSWD,PSWD,Xtrackers Cybersecurity Select Equity ETF,True,False,nasdaq
 PTC,PTC,PTC Inc. - Common Stock,False,False,nasdaq
 PTCT,PTCT,"PTC Therapeutics, Inc. - Common Stock",False,False,nasdaq
@@ -3066,10 +3078,10 @@ QLYS,QLYS,"Qualys, Inc. - Common Stock",False,False,nasdaq
 QMCO,QMCO,Quantum Corporation - Common Stock,False,False,nasdaq
 QMID,QMID,WisdomTree U.S. MidCap Quality Growth Fund,True,False,nasdaq
 QMLS,QMLS,"QumulusAI, Inc. - Common Stock",False,False,nasdaq
-QMMM,QMMM,QMMM Holdings Limited - Class A Ordinary Shares,False,False,nasdaq
 QMOM,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,True,False,nasdaq
 QNCX,QNCX,"Quince Therapeutics, Inc. - Common Stock",False,False,nasdaq
 QNDX,QNDX,State Street SPDR Portfolio Nasdaq 100 ETF,True,False,nasdaq
+QNME,QNME,"Quanome Technologies, Inc. - Common Stock",False,False,nasdaq
 QNST,QNST,"QuinStreet, Inc. - Common Stock",False,False,nasdaq
 QNT,QNT,Quantinuum Inc. - Class A Common Stock,False,False,nasdaq
 QNTM,QNTM,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,False,False,nasdaq
@@ -3118,6 +3130,7 @@ QUCY,QUCY,Quantum Cyber N.V. - Ordinary Shares,False,False,nasdaq
 QUIK,QUIK,QuickLogic Corporation - Common Stock,False,False,nasdaq
 QURE,QURE,uniQure N.V. - Ordinary Shares,False,False,nasdaq
 QVAL,QVAL,Alpha Architect U.S. Quantitative Value ETF,True,False,nasdaq
+QVCG,QVCG,"QVC Group, Inc. - Common Stock",False,False,nasdaq
 QVOL,QVOL,Infrastructure Capital Nasdaq Option Income ETF,True,False,nasdaq
 QXL,QXL,Quantum X Labs Inc. - Common Stock,False,False,nasdaq
 QXQ,QXQ,SGI Enhanced Nasdaq-100 ETF,True,False,nasdaq
@@ -3143,6 +3156,7 @@ RBKB,RBKB,"Rhinebeck Bancorp, Inc. - Common Stock",False,False,nasdaq
 RBNE,RBNE,Robin Energy Ltd. - Common Stock,False,False,nasdaq
 RCAT,RCAT,"Red Cat Holdings, Inc. - Common Stock",False,False,nasdaq
 RCAX,RCAX,Defiance Daily Target 2x Long RCAT ETF,True,False,nasdaq
+RCBC,RCBC,River City Bank - Common stock,False,False,nasdaq
 RCEL,RCEL,"Avita Medical, Inc. - Common Stock",False,False,nasdaq
 RCGE,RCGE,RockCreek Global Equality ETF,True,False,nasdaq
 RCKT,RCKT,"Rocket Pharmaceuticals, Inc. - Common Stock",False,False,nasdaq
@@ -3413,7 +3427,6 @@ SKWD,SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock",False,False,n
 SKYA,SKYA,"SkyAI, Inc. - Common Stock",False,False,nasdaq
 SKYE,SKYE,"Skye Bioscience, Inc. - Common Stock",False,False,nasdaq
 SKYQ,SKYQ,Sky Quarry Inc. - Common Stock,False,False,nasdaq
-SKYT,SKYT,"SkyWater Technology, Inc. - Common Stock",False,False,nasdaq
 SKYU,SKYU,ProShares Ultra Cloud Computing,True,False,nasdaq
 SKYW,SKYW,"SkyWest, Inc. - Common Stock",False,False,nasdaq
 SKYX,SKYX,SKYX Platforms Corp. - Common Stock,False,False,nasdaq
@@ -3555,6 +3568,7 @@ STIM,STIM,"Neuronetics, Inc. - Common Stock",False,False,nasdaq
 STKE,STKE,Sol Strategies Inc. - Common Shares,False,False,nasdaq
 STKS,STKS,"The ONE Group Hospitality, Inc. - Common Stock",False,False,nasdaq
 STLD,STLD,"Steel Dynamics, Inc. - Common Stock",False,False,nasdaq
+STLN,STLN,"Starling Oncology, Inc. - Common Stock",False,False,nasdaq
 STNC,STNC,Hennessy Sustainable ETF,True,False,nasdaq
 STNE,STNE,StoneCo Ltd. - Class A Common Share,False,False,nasdaq
 STOK,STOK,"Stoke Therapeutics, Inc. - Common Stock",False,False,nasdaq
@@ -3562,7 +3576,6 @@ STRA,STRA,"Strategic Education, Inc. - Common Stock",False,False,nasdaq
 STRL,STRL,"Sterling Infrastructure, Inc. - Common Stock",False,False,nasdaq
 STRO,STRO,"Sutro Biopharma, Inc. - Common Stock",False,False,nasdaq
 STRR,STRR,"Star Equity Holdings, Inc. - Common Stock",False,False,nasdaq
-STRS,STRS,Stratus Properties Inc. - Common Stock,False,False,nasdaq
 STRT,STRT,STRATTEC SECURITY CORPORATION - Common Stock,False,False,nasdaq
 STRZ,STRZ,Starz Entertainment Corp. - Common Shares,False,False,nasdaq
 STTK,STTK,"Shattuck Labs, Inc. - Common Stock",False,False,nasdaq
@@ -3673,13 +3686,14 @@ THRY,THRY,"Thryv Holdings, Inc. - Common Stock",False,False,nasdaq
 THYM,THYM,T. Rowe Price High Income Municipal ETF,True,False,nasdaq
 THYP,THYP,21shares Hyperliquid ETF,True,False,nasdaq
 TIGO,TIGO,Millicom International Cellular S.A. - Common Stock,False,False,nasdaq
+TIH,TIH,The Investment House ETF,True,False,nasdaq
 TIL,TIL,"Instil Bio, Inc. - Common Stock",False,False,nasdaq
 TILC,TILC,Thrivent International Large Cap ETF,True,False,nasdaq
 TILE,TILE,"Interface, Inc. - Common Stock",False,False,nasdaq
 TIPT,TIPT,Tiptree Inc. - Common Stock,False,False,nasdaq
 TISC,TISC,Thrivent International Small Cap ETF,True,False,nasdaq
 TITN,TITN,Titan Machinery Inc. - Common Stock,False,False,nasdaq
-TJGC,TJGC,TJGC Group Limited - ordinary shares,False,False,nasdaq
+TJGC,TJGC,TJGC Group Limited - Class A Ordinary Shares,False,False,nasdaq
 TKNO,TKNO,"Alpha Teknova, Inc. - Common Stock",False,False,nasdaq
 TKNS,TKNS,21Shares Active Crypto ETF,True,False,nasdaq
 TLA,TLA,GraniteShares Autocallable TSLA ETF,True,False,nasdaq
@@ -3713,7 +3727,6 @@ TNON,TNON,"Tenon Medical, Inc. - Common Stock",False,False,nasdaq
 TNXP,TNXP,Tonix Pharmaceuticals Holding Corp. - Common Stock,False,False,nasdaq
 TNXT,TNXT,T. Rowe Price Innovation Leaders ETF,True,False,nasdaq
 TNYA,TNYA,"Tenaya Therapeutics, Inc. - Common Stock",False,False,nasdaq
-TOI,TOI,"The Oncology Institute, Inc. - Common Stock",False,False,nasdaq
 TOMZ,TOMZ,"TOMI Environmental Solutions, Inc. - Common Stock",False,False,nasdaq
 TONX,TONX,TON Strategy Company - Common Stock,False,False,nasdaq
 TOP,TOP,TOP Financial Group Limited - Class A Ordinary Shares,False,False,nasdaq
@@ -3966,6 +3979,7 @@ VNCE,VNCE,Vince Holding Corp. - Common Stock,False,False,nasdaq
 VNDA,VNDA,Vanda Pharmaceuticals Inc. - Common Stock,False,False,nasdaq
 VNOM,VNOM,"Viper Energy, Inc.  - Class A Common Stock",False,False,nasdaq
 VNQI,VNQI,Vanguard Global ex-U.S. Real Estate ETF,True,False,nasdaq
+VOGX,VOGX,Vogenx Inc - Common Stock,False,False,nasdaq
 VOLT,VOLT,Tema Electrification ETF,True,False,nasdaq
 VONE,VONE,Vanguard Russell 1000 ETF,True,False,nasdaq
 VONG,VONG,Vanguard Russell 1000 Growth ETF,True,False,nasdaq
@@ -3993,7 +4007,6 @@ VS,VS,Versus Systems Inc. - Common Stock,False,False,nasdaq
 VSAT,VSAT,"ViaSat, Inc. - Common Stock",False,False,nasdaq
 VSDA,VSDA,VictoryShares Dividend Accelerator ETF,True,False,nasdaq
 VSEC,VSEC,VSE Corporation - Common Stock,False,False,nasdaq
-VSEE,VSEE,"VSee Health, Inc. - Common Stock",False,False,nasdaq
 VSME,VSME,VS Media Holdings Limited - Class A Ordinary Shares,False,False,nasdaq
 VSMV,VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,True,False,nasdaq
 VSNT,VSNT,"Versant Media Group, Inc. - Class A Common Stock",False,False,nasdaq
@@ -4060,6 +4073,7 @@ WISE,WISE,Themes Generative Artificial Intelligence ETF,True,False,nasdaq
 WIX,WIX,Wix.com Ltd. - Ordinary Shares,False,False,nasdaq
 WKHS,WKHS,"Workhorse Group, Inc. - Common Stock",False,False,nasdaq
 WKSP,WKSP,"Worksport, Ltd. - Common Stock",False,False,nasdaq
+WLCO,WLCO,Wilco 63 Corporation - Class A Ordinary Shares,False,False,nasdaq
 WLDN,WLDN,"Willdan Group, Inc. - Common Stock",False,False,nasdaq
 WLDS,WLDS,Wearable Devices Ltd. - Ordinary Share,False,False,nasdaq
 WLFC,WLFC,Willis Lease Finance Corporation - Common Stock,False,False,nasdaq
@@ -4095,7 +4109,7 @@ WTMU,WTMU,WisdomTree Core Laddered Municipal Fund,True,False,nasdaq
 WTMY,WTMY,WisdomTree High Income Laddered Municipal Fund,True,False,nasdaq
 WTW,WTW,Willis Towers Watson Public Limited Company - Ordinary Shares,False,False,nasdaq
 WULF,WULF,TeraWulf Inc. - Common Stock,False,False,nasdaq
-WVE,WVE,Wave Life Sciences Ltd. - Ordinary Shares,False,False,nasdaq
+WVE,WVE,"Wave Life Sciences, Inc. - Common Stock",False,False,nasdaq
 WVVI,WVVI,"Willamette Valley Vineyards, Inc. - Common Stock",False,False,nasdaq
 WW,WW,"WW International, Inc.  - Common Stock",False,False,nasdaq
 WWD,WWD,"Woodward, Inc. - Common Stock",False,False,nasdaq
@@ -4285,6 +4299,7 @@ ADBU,ADBU,Direxion Daily ADBE Bull 2X ETF,True,False,other
 ADC,ADC,Agree Realty Corporation Common Stock,False,False,other
 ADCT,ADCT,ADC Therapeutics SA Common Shares,False,False,other
 ADDS,ADDS,Hedgeye Index Adds ETF,True,False,other
+ADIG,ADIG,ADI Global Distribution Inc. Common Stock,False,False,other
 ADIU,ADIU,Leverage Shares 2X Long ADI Daily ETF,True,False,other
 ADIV,ADIV,Guinness Atkinson Asia Pacific Dividend Builder ETF,True,False,other
 ADM,ADM,Archer-Daniels-Midland Company Common Stock,False,False,other
@@ -4330,7 +4345,6 @@ AGO,AGO,Assured Guaranty Ltd. Common Stock,False,False,other
 AGOX,AGOX,Adaptive Alpha Opportunities ETF,True,False,other
 AGQ,AGQ,ProShares Ultra Silver,True,False,other
 AGQI,AGQI,First Trust Active Global Quality Income ETF,True,False,other
-AGRH,AGRH,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,True,False,other
 AGRO,AGRO,Adecoagro S.A. Common Shares,False,False,other
 AGRW,AGRW,Allspring LT Large Growth ETF,True,False,other
 AGX,AGX,"Argan, Inc. Common Stock",False,False,other
@@ -4367,6 +4381,7 @@ AJG,AJG,Arthur J. Gallagher & Co. Common Stock,False,False,other
 AJUL,AJUL,Innovator Equity Defined Protection ETF - 2 Yr to July 2026,True,False,other
 AKA,AKA,a.k.a. Brands Holding Corp. Common Stock,False,False,other
 AKAF,AKAF,The Frontier Economic Fund,True,False,other
+AKAL,AKAL,T-REX 2X Long AKAM Daily Target ETF,True,False,other
 AKO.A,AKO-A,Embotelladora Andina S.A. Common Stock,False,False,other
 AKO.B,AKO-B,Embotelladora Andina S.A. Common Stock,False,False,other
 AKRE,AKRE,Akre Focus ETF,True,False,other
@@ -4433,6 +4448,7 @@ ANEW,ANEW,ProShares MSCI Transformational Changes ETF,True,False,other
 ANF,ANF,Abercrombie & Fitch Company Common Stock,False,False,other
 ANGX,ANGX,"Angel Studios, Inc. Class A Common Stock",False,False,other
 ANRO,ANRO,"Alto Neuroscience, Inc. Common Stock",False,False,other
+ANTW,ANTW,Anthropic AI Lab Ecosystem ETF,True,False,other
 ANVS,ANVS,"Annovis Bio, Inc. Common Stock",False,False,other
 AOA,AOA,iShares Core 80/20 Aggressive Allocation ETF,True,False,other
 AOCT,AOCT,Innovator Equity Defined Protection ETF - 2 Yr to October 2026,True,False,other
@@ -4490,6 +4506,7 @@ ARE,ARE,"Alexandria Real Estate Equities, Inc. Common Stock",False,False,other
 AREN,AREN,"The Arena Group Holdings, Inc. Common Stock",False,False,other
 ARES,ARES,Ares Management Corporation Class A Common Stock,False,False,other
 ARGT,ARGT,Global X MSCI Argentina ETF,True,False,other
+ARIA,ARIA,ARIA Opportunities ETF,True,False,other
 ARIS,ARIS,Aris Mining Corporation Common Shares,False,False,other
 ARKB,ARKB,ARK 21Shares Bitcoin ETF ,True,False,other
 ARKD,ARKD,ARK DIET Q1 Buffer ETF,True,False,other
@@ -4559,6 +4576,7 @@ ATTR,ATTR,Arin Tactical Tail Risk ETF,True,False,other
 AU,AU,AngloGold Ashanti PLC Ordinary Shares,False,False,other
 AUAU,AUAU,Global X Gold Miners ETF,True,False,other
 AUB,AUB,Atlantic Union Bankshares Corporation Common Stock,False,False,other
+AUGC,AUGC,Corgi U.S. Equities 10% Structured Buffer ETF - August Series,True,False,other
 AUGM,AUGM,FT Vest U.S. Equity Max Buffer ETF - August,True,False,other
 AUGP,AUGP,PGIM S&P 500 Buffer 12 ETF - August,True,False,other
 AUGT,AUGT,AllianzIM U.S. Large Cap Buffer10 Aug ETF,True,False,other
@@ -4736,6 +4754,7 @@ BEC,BEC,Corgi BE 2x Daily ETF,True,False,other
 BEDZ,BEDZ,AdvisorShares Hotel ETF,True,False,other
 BEGS,BEGS,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,True,False,other
 BEMB,BEMB,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,True,False,other
+BEMD,BEMD,BNY Mellon Emerging Markets Debt ETF,True,False,other
 BEN,BEN,"Franklin Resources, Inc. Common Stock",False,False,other
 BENJ,BENJ,Horizon Landmark ETF,True,False,other
 BEPC,BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,False,False,other
@@ -5043,6 +5062,7 @@ CATF,CATF,American Century California Municipal Bond ETF,True,False,other
 CATG,CATG,Leverage Shares 2X Long CAT Daily ETF,True,False,other
 CATO,CATO,Cato Corporation (The) Class A Common Stock,False,False,other
 CATX,CATX,"Perspective Therapeutics, Inc. Common Stock",False,False,other
+CAUG,CAUG,Corgi U.S. Equities 15% Structured Buffer ETF - August Series,True,False,other
 CAVA,CAVA,"CAVA Group, Inc. Common Stock",False,False,other
 CB,CB,Chubb Limited  Common Stock,False,False,other
 CBAN,CBAN,"Colony Bankcorp, Inc. Common Stock",False,False,other
@@ -5144,6 +5164,7 @@ CGXU,CGXU,Capital Group International Focus Equity ETF,True,False,other
 CHAT,CHAT,Roundhill Generative AI & Technology ETF,True,False,other
 CHAU,CHAU,Direxion Daily CSI 300 China A Share Bull 2X ETF,True,False,other
 CHD,CHD,"Church & Dwight Company, Inc. Common Stock",False,False,other
+CHDG,CHDG,Calamos Active Hedged Equity ETF,True,False,other
 CHGG,CHGG,"Chegg, Inc. Common Stock",False,False,other
 CHH,CHH,"Choice Hotels International, Inc. Common Stock",False,False,other
 CHIQ,CHIQ,Global X MSCI China Consumer Discretionary ETF,True,False,other
@@ -5224,7 +5245,6 @@ CNEQ,CNEQ,Alger Concentrated Equity ETF,True,False,other
 CNH,CNH,CNH Industrial N.V. Common Shares,False,False,other
 CNI,CNI,Canadian National Railway Company Common Stock,False,False,other
 CNK,CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",False,False,other
-CNL,CNL,Collective Mining Ltd. Common Shares,False,False,other
 CNM,CNM,"Core & Main, Inc. Class A Common Stock",False,False,other
 CNMD,CNMD,CONMED Corporation Common Stock,False,False,other
 CNNE,CNNE,"Cannae Holdings, Inc. Common Stock",False,False,other
@@ -5354,6 +5374,7 @@ CSNR,CSNR,Cohen & Steers Natural Resources Active ETF,True,False,other
 CSPF,CSPF,Cohen & Steers Preferred and Income Opportunities Active ETF,True,False,other
 CSQR,CSQR,"Csquare, Inc. Common Stock",False,False,other
 CSR,CSR,D/B/A Centerspace Common Stock,False,False,other
+CSRA,CSRA,Cohen & Steers Real Assets Active ETF,True,False,other
 CSRE,CSRE,Cohen & Steers Real Estate Active ETF,True,False,other
 CSSD,CSSD,Cohen & Steers Short Duration Preferred and Income Active ETF,True,False,other
 CSTK,CSTK,Invesco Comstock Contrarian Equity ETF,True,False,other
@@ -5362,6 +5383,7 @@ CSV,CSV,"Carriage Services, Inc. Common Stock",False,False,other
 CSW,CSW,"CSW Industrials, Inc. Common Stock",False,False,other
 CTA,CTA,Simplify Managed Futures Strategy ETF,True,False,other
 CTAP,CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,True,False,other
+CTAU,CTAU,Corgi U.S. Equities 30% Structured Buffer ETF - August Series,True,False,other
 CTEF,CTEF,Castellan Targeted Equity ETF,True,False,other
 CTEV,CTEV,Claritev Corporation Class A Common Stock,False,False,other
 CTEX,CTEX,ProShares S&P Kensho Cleantech ETF,True,False,other
@@ -5428,6 +5450,7 @@ CZA,CZA,Invesco Zacks Mid-Cap ETF,True,False,other
 D,D,"Dominion Energy, Inc. Common Stock",False,False,other
 DABS,DABS,DoubleLine Asset-Backed Securities ETF,True,False,other
 DAC,DAC,Danaos Corporation Common Stock,False,False,other
+DACL,DACL,REX Defensive Autocallable Income ETF,True,False,other
 DAL,DAL,"Delta Air Lines, Inc. Common Stock",False,False,other
 DAMD,DAMD,Defiance Daily Target 2X Short AMD ETF,True,False,other
 DAN,DAN,Dana Incorporated Common Stock ,False,False,other
@@ -5470,6 +5493,7 @@ DDEC,DDEC,FT Vest U.S. Equity Deep Buffer ETF - December,True,False,other
 DDFA,DDFA,Innovator Equity Dual Directional 15 Buffer ETF - April,True,False,other
 DDFD,DDFD,Innovator Equity Dual Directional 15 Buffer ETF - December,True,False,other
 DDFF,DDFF,Innovator Equity Dual Directional 15 Buffer ETF - February,True,False,other
+DDFG,DDFG,Innovator Equity Dual Directional 15 Buffer ETF - August,True,False,other
 DDFJ,DDFJ,Innovator Equity Dual Directional 15 Buffer ETF - January,True,False,other
 DDFL,DDFL,Innovator Equity Dual Directional 15 Buffer ETF - July,True,False,other
 DDFM,DDFM,Innovator Equity Dual Directional 15 Buffer ETF - March,True,False,other
@@ -5486,6 +5510,7 @@ DDSQ,DDSQ,Innovator Equity Dual Directional 5 Buffer ETF - Quarterly,True,False,
 DDTA,DDTA,Innovator Equity Dual Directional 10 Buffer ETF - April,True,False,other
 DDTD,DDTD,Innovator Equity Dual Directional 10 Buffer ETF - December,True,False,other
 DDTF,DDTF,Innovator Equity Dual Directional 10 Buffer ETF - February,True,False,other
+DDTG,DDTG,Innovator Equity Dual Directional 10 Buffer ETF - August,True,False,other
 DDTJ,DDTJ,Innovator Equity Dual Directional 10 Buffer ETF - January,True,False,other
 DDTL,DDTL,Innovator Equity Dual Directional 10 Buffer ETF - July,True,False,other
 DDTM,DDTM,Innovator Equity Dual Directional 10 Buffer ETF - March,True,False,other
@@ -5518,6 +5543,7 @@ DEI,DEI,"Douglas Emmett, Inc. Common Stock",False,False,other
 DELL,DELL,Dell Technologies Inc. Class C Common Stock ,False,False,other
 DEM,DEM,WisdomTree Emerging Markets High Dividend Fund,True,False,other
 DEO,DEO,Diageo plc Common Stock,False,False,other
+DEPW,DEPW,Google DeepMind AI Lab Ecosystem ETF,True,False,other
 DES,DES,WisdomTree U.S. SmallCap Dividend Fund,True,False,other
 DESK,DESK,VanEck Office and Commercial REIT ETF,True,False,other
 DEUS,DEUS,Xtrackers Russell US Multifactor ETF,True,False,other
@@ -5732,10 +5758,6 @@ EAFG,EAFG,Pacer Developed Markets Cash Cows Growth Leaders ETF,True,False,other
 EAGG,EAGG,iShares ESG Aware U.S. Aggregate Bond ETF,True,False,other
 EAGL,EAGL,Eagle Capital Select Equity ETF,True,False,other
 EALT,EALT,Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly,True,False,other
-EAOA,EAOA,iShares ESG Aware 80/20 Aggressive Allocation ETF,True,False,other
-EAOK,EAOK,iShares ESG Aware 30/70 Conservative Allocation ETF,True,False,other
-EAOM,EAOM,iShares ESG Aware 40/60 Moderate Allocation ETF,True,False,other
-EAOR,EAOR,iShares ESG Aware 60/40 Balanced Allocation ETF,True,False,other
 EAPR,EAPR,Innovator Emerging Markets Power Buffer ETF April,True,False,other
 EARN,EARN,Ellington Credit Company Common Shares of Beneficial Interest,False,False,other
 EASG,EASG,Xtrackers MSCI EAFE Selection Equity ETF,True,False,other
@@ -5834,6 +5856,7 @@ ELME,ELME,Elme Communities Common Stock,False,False,other
 ELS,ELS,"Equity Lifestyle Properties, Inc. Common Stock",False,False,other
 ELV,ELV,"Elevance Health, Inc. Common Stock",False,False,other
 EMA,EMA,Emera Incorporated Common Shares,False,False,other
+EMAU,EMAU,Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series,True,False,other
 EMBD,EMBD,Global X Emerging Markets Bond ETF,True,False,other
 EMBJ,EMBJ,Embraer S.A. Common Stock,False,False,other
 EMBX,EMBX,VanEck Emerging Markets Bond ETF,True,False,other
@@ -6018,6 +6041,7 @@ EXK,EXK,Endeavour Silver Corporation Ordinary Shares (Canada),False,False,other
 EXOD,EXOD,"Exodus Movement, Inc. Class A Common Stock",False,False,other
 EXP,EXP,Eagle Materials Inc Common Stock,False,False,other
 EXPD,EXPD,"Expeditors International of Washington, Inc. Common Stock",False,False,other
+EXPN,EXPN,Horizon Expansion Leaders ETF,True,False,other
 EXR,EXR,Extra Space Storage Inc Common Stock,False,False,other
 EYES,EYES,Corgi Data & Surveillance ETF,True,False,other
 EYLD,EYLD,Cambria Emerging Shareholder Yield ETF,True,False,other
@@ -6127,6 +6151,7 @@ FFLC,FFLC,Fidelity Fundamental Large Cap Core ETF,True,False,other
 FFLG,FFLG,Fidelity Fundamental Large Cap Growth ETF,True,False,other
 FFLS,FFLS,The Future Fund Long/Short ETF,True,False,other
 FFLV,FFLV,Fidelity Fundamental Large Cap Value ETF,True,False,other
+FFLX,FFLX,First Trust Flexible Income ETF,True,False,other
 FFND,FFND,One Global ETF,True,False,other
 FFOG,FFOG,Franklin Focused Growth ETF,True,False,other
 FFOX,FFOX,FundX Future Fund Opportunities ETF,True,False,other
@@ -6166,6 +6191,7 @@ FIW,FIW,First Trust Water ETF,True,False,other
 FIX,FIX,"Comfort Systems USA, Inc. Common Stock",False,False,other
 FIXP,FIXP,FolioBeyond Enhanced Fixed Income Premium ETF,True,False,other
 FIXT,FIXT,TCW Core Plus Bond ETF,True,False,other
+FIZY,FIZY,Fitz-Gerald Must Have Portfolio and Options Overlay ETF,True,False,other
 FJAN,FJAN,FT Vest U.S. Equity Buffer ETF - January,True,False,other
 FJET,FJET,"Starfighters Space, Inc. Common Stock",False,False,other
 FJUL,FJUL,FT Vest U.S. Equity Buffer ETF - July,True,False,other
@@ -6373,6 +6399,7 @@ G,G,Genpact Limited Common Stock,False,False,other
 GAA,GAA,Cambria Global Asset Allocation ETF,True,False,other
 GABF,GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,True,False,other
 GAEM,GAEM,Simplify Gamma Emerging Market Bond ETF,True,False,other
+GAIQ,GAIQ,Guinness Atkinson Global Innovators Fund: ETF Class Shares,True,False,other
 GAL,GAL,State Street Global Allocation ETF,True,False,other
 GALX,GALX,VistaShares Space Supercycle ETF,True,False,other
 GAM,GAM,"General American Investors, Inc. Common Stock",False,False,other
@@ -6396,10 +6423,11 @@ GBX,GBX,"Greenbrier Companies, Inc. (The) Common Stock",False,False,other
 GCAD,GCAD,Gabelli Commercial Aerospace and Defense ETF,True,False,other
 GCAL,GCAL,Goldman Sachs Dynamic California Municipal Income ETF,True,False,other
 GCC,GCC,WisdomTree EnhancedContinuous Commodity Index Fund,True,False,other
-GCDT,GCDT,Green Circle Decarbonize Technology Limited Ordinary Shares,False,False,other
+GCDT,GCDT,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,False,False,other
 GCO,GCO,Genesco Inc. Common Stock,False,False,other
 GCOR,GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,True,False,other
 GCOW,GCOW,Pacer Global Cash Cows Dividend ETF,True,False,other
+GCPB,GCPB,Goldman Sachs Core Plus Bond ETF,True,False,other
 GCSH,GCSH,Guggenheim Ultra Short Income ETF,True,False,other
 GCTS,GCTS,"GCT Semiconductor Holding, Inc. Common Stock",False,False,other
 GD,GD,General Dynamics Corporation Common Stock,False,False,other
@@ -6429,7 +6457,6 @@ GENI,GENI,Genius Sports Limited Ordinary Shares,False,False,other
 GENM,GENM,Genter Capital Municipal Quality Intermediate ETF,True,False,other
 GENT,GENT,Genter Capital Taxable Quality Intermediate ETF,True,False,other
 GENW,GENW,Genter Capital International Dividend ETF,True,False,other
-GEOA,GEOA,WisdomTree GeoAlpha Opportunities Fund,True,False,other
 GETY,GETY,"Getty Images Holdings, Inc. Class A Common Stock",False,False,other
 GEV,GEV,GE Vernova Inc. Common Stock,False,False,other
 GEVC,GEVC,Corgi GEV 2x Daily ETF,True,False,other
@@ -6458,6 +6485,7 @@ GIGB,GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,True,False,ot
 GIGL,GIGL,Goldman Sachs Corporate Bond ETF,True,False,other
 GII,GII,State Street SPDR S&P Global Infrastructure ETF,True,False,other
 GIL,GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",False,False,other
+GINC,GINC,Goldman Sachs Income ETF,True,False,other
 GINN,GINN,Goldman Sachs Innovate Equity ETF,True,False,other
 GIS,GIS,"General Mills, Inc. Common Stock",False,False,other
 GISC,GISC,Guggenheim Securitized Income ETF,True,False,other
@@ -6528,7 +6556,7 @@ GOOP,GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,True,False,other
 GOOW,GOOW,Roundhill GOOGL WeeklyPay ETF,True,False,other
 GOOX,GOOX,T-Rex 2X Long Alphabet Daily Target ETF,True,False,other
 GOOY,GOOY,YieldMax GOOGL Option Income Strategy ETF,True,False,other
-GOP,GOP,Unusual Whales Subversive Republican Trading ETF,True,False,other
+GOP,GOP,Subversive Congressional Republicans Trading ETF,True,False,other
 GORO,GORO,Goldgroup Mining Inc. Common Shares,False,False,other
 GOVM,GOVM,iShares 1-10 Year Treasury Bond ETF,True,False,other
 GOVT,GOVT,iShares U.S. Treasury Bond ETF,True,False,other
@@ -6636,12 +6664,15 @@ HAPI,HAPI,Harbor Human Capital Factor US Large Cap ETF,True,False,other
 HAPS,HAPS,Harbor Human Capital Factor US Small Cap ETF,True,False,other
 HARD,HARD,Simplify Commodities Strategy No K-1 ETF,True,False,other
 HASI,HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock",False,False,other
+HAUG,HAUG,Corgi U.S. Equities 100% Structured Buffer ETF - August Series,True,False,other
 HAUS,HAUS,Residential REIT ETF,True,False,other
 HAUZ,HAUZ,Xtrackers International Real Estate ETF,True,False,other
+HAWG,HAWG,HCM Hedged Equity ETF,True,False,other
 HAWK,HAWK,"HawkEye 360, Inc. Common Stock",False,False,other
 HAWX,HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,True,False,other
 HAYW,HAYW,"Hayward Holdings, Inc. Common Stock",False,False,other
 HBB,HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,False,False,other
+HBIL,HBIL,Harbor Short Term Treasury ETF,True,False,other
 HBM,HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),False,False,other
 HBMX,HBMX,Tuttle Capital Concentrated Memory Stack ETF,True,False,other
 HBRD,HBRD,Invesco U.S. Hybrid Bond ETF,True,False,other
@@ -6865,14 +6896,13 @@ ICE,ICE,Intercontinental Exchange Inc. Common Stock,False,False,other
 ICF,ICF,iShares Select U.S. REIT ETF,True,False,other
 ICL,ICL,ICL Group Ltd. Ordinary Shares,False,False,other
 ICLO,ICLO,Invesco AAA CLO Floating Rate Note ETF,True,False,other
-ICOI,ICOI,Bitwise COIN Option Income Strategy ETF,True,False,other
 ICOW,ICOW,Pacer Developed Markets International Cash Cows 100 ETF,True,False,other
 ICPI,ICPI,iShares 0-1 Year TIPS Bond ETF,True,False,other
 ICPY,ICPY,"Tweedy, Browne International Insider + Value ETF",True,False,other
-ICRC,ICRC,Bitwise CRCL Option Income Strategy ETF,True,False,other
 ICSH,ICSH,iShares Ultra Short Duration Bond Active ETF,True,False,other
 ICVT,ICVT,iShares Convertible Bond ETF,True,False,other
 IDA,IDA,"IDACORP, Inc. Common Stock",False,False,other
+IDAU,IDAU,Corgi International Developed Equities 15% Structured Buffer ETF - August Series,True,False,other
 IDEC,IDEC,Innovator International Developed Power Buffer ETF  December,True,False,other
 IDEQ,IDEQ,Lazard International Dynamic Equity ETF,True,False,other
 IDEV,IDEV,iShares Core MSCI International Developed Markets ETF,True,False,other
@@ -6901,7 +6931,6 @@ IEFA,IEFA,iShares Core MSCI EAFE ETF,True,False,other
 IEMG,IEMG,iShares Core MSCI Emerging Markets ETF,True,False,other
 IEO,IEO,iShares U.S. Oil & Gas Exploration & Production ETF,True,False,other
 IETC,IETC,iShares U.S. Tech Independence Focused ETF,True,False,other
-IETH,IETH,Bitwise Ethereum Option Income Strategy ETF,True,False,other
 IEUR,IEUR,iShares Core MSCI Europe ETF,True,False,other
 IEV,IEV,iShares Europe ETF,True,False,other
 IEX,IEX,IDEX Corporation Common Stock,False,False,other
@@ -6923,7 +6952,6 @@ IGHG,IGHG,ProShares Investment Grade-Interest Rate Hedged,True,False,other
 IGLB,IGLB,iShares 10  Year Investment Grade Corporate Bond ETF,True,False,other
 IGLD,IGLD,FT Vest Gold Strategy Target Income ETF,True,False,other
 IGM,IGM,iShares Expanded Tech Sector ETF,True,False,other
-IGME,IGME,Bitwise GME Option Income Strategy ETF,True,False,other
 IGPT,IGPT,Invesco AI and Next Gen Software ETF,True,False,other
 IGRO,IGRO,iShares International Dividend Growth ETF,True,False,other
 IGV,IGV,iShares Expanded Tech-Software Sector ETF,True,False,other
@@ -6963,8 +6991,6 @@ IMCG,IMCG,iShares Morningstar Mid-Cap Growth ETF,True,False,other
 IMF,IMF,Invesco Managed Futures Strategy ETF,True,False,other
 IMFL,IMFL,Invesco International Developed Dynamic Multifactor ETF,True,False,other
 IMO,IMO,Imperial Oil Limited Common Stock,False,False,other
-IMRA,IMRA,Bitwise MARA Option Income Strategy ETF,True,False,other
-IMST,IMST,Bitwise MSTR Option Income Strategy ETF,True,False,other
 IMTB,IMTB,iShares Core 5-10 Year USD Bond ETF,True,False,other
 IMTG,IMTG,Invesco Agency MBS ETF,True,False,other
 IMTM,IMTM,iShares MSCI Intl Momentum Factor ETF,True,False,other
@@ -7089,7 +7115,6 @@ IVOL,IVOL,Quadratic Interest Rate Volatility and Inflation Hedge ETF,True,False,
 IVOO,IVOO,Vanguard S&P Mid-Cap 400 ETF,True,False,other
 IVOV,IVOV,Vanguard S&P Mid-Cap 400 Value ETF,True,False,other
 IVR,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,False,False,other
-IVRS,IVRS,iShares Future Metaverse Tech and Communications ETF,True,False,other
 IVT,IVT,InvenTrust Properties Corp. Common Stock,False,False,other
 IVV,IVV,iShares Core S&P 500 ETF,True,False,other
 IVVB,IVVB,iShares Large Cap Deep Quarterly Laddered ETF,True,False,other
@@ -7253,7 +7278,6 @@ JPSV,JPSV,JPMorgan Active Small Cap Value ETF,True,False,other
 JPUS,JPUS,JPMorgan Diversified Return U.S. Equity ETF,True,False,other
 JPXN,JPXN,iShares JPX-Nikkei 400 ETF,True,False,other
 JQUA,JQUA,JPMorgan U.S. Quality Factor ETF,True,False,other
-JRE,JRE,Janus Henderson U.S. Real Estate ETF,True,False,other
 JSCP,JSCP,JPMorgan Short Duration Core Plus ETF,True,False,other
 JSI,JSI,Janus Henderson Securitized Income ETF,True,False,other
 JSTC,JSTC,Adasina Social Justice All Cap Global ETF,True,False,other
@@ -7308,9 +7332,10 @@ KDEF,KDEF,PLUS Korea Defense Industry Index ETF,True,False,other
 KDRN,KDRN,Kingsbarn Tactical Bond ETF,True,False,other
 KDVD,KDVD,Keeley Dividend ETF,True,False,other
 KEEX,KEEX,Defiance Daily Target 2x Long KEEL ETF,True,False,other
-KEMQ,KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,True,False,other
+KEMQ,KEMQ,KraneShares Public-Private Emerging Markets Internet and Technology ETF,True,False,other
 KEMX,KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,True,False,other
 KEN,KEN,Kenon Holdings Ltd. Ordinary Shares,False,False,other
+KEO,KEO,Kurv Equity Option Income ETF,True,False,other
 KEP,KEP,Korea Electric Power Corporation Common Stock,False,False,other
 KEX,KEX,Kirby Corporation Common Stock,False,False,other
 KEY,KEY,KeyCorp Common Stock,False,False,other
@@ -7480,6 +7505,7 @@ LIMI,LIMI,Themes Lithium & Battery Metal Miners ETF,True,False,other
 LION,LION,Lionsgate Studios Corp Common Shares,False,False,other
 LIT,LIT,Global X Lithium & Battery Tech ETF,True,False,other
 LITC,LITC,Corgi LITE 2x Daily ETF,True,False,other
+LITG,LITG,Leverage Shares 2X Long LITE Daily ETF,True,False,other
 LITL,LITL,Simplify Piper Sandler US Small-Cap PLUS Income ETF,True,False,other
 LITU,LITU,T-REX 2X Long LITE Daily Target ETF,True,False,other
 LITX,LITX,Tradr 2X Long LITE Daily ETF,True,False,other
@@ -7505,6 +7531,7 @@ LOCT,LOCT,Innovator Premium Income 15 Buffer ETF - October,True,False,other
 LODE,LODE,Comstock Inc. Common Stock,False,False,other
 LODI,LODI,AAM SLC Low Duration Income ETF,True,False,other
 LOEV,LOEV,Harding Loevner International Developed Markets Select Equity ETF,True,False,other
+LOFD,LOFD,Direxion Daily SpaceX Bear 2X ETF,True,False,other
 LOFF,LOFF,Direxion Daily SpaceX Bull 2X ETF,True,False,other
 LOHA,LOHA,Roundhill HALO ETF,True,False,other
 LONZ,LONZ,PIMCO Senior Loan Active Exchange-Traded Fund,True,False,other
@@ -7563,6 +7590,7 @@ LXFR,LXFR,Luxfer Holdings PLC Ordinary Shares,False,False,other
 LXU,LXU,"LSB Industries, Inc. Common Stock",False,False,other
 LYB,LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),False,False,other
 LYLD,LYLD,Cambria Large Cap Shareholder Yield ETF,True,False,other
+LYTE,LYTE,Roundhill Photonics & Optics ETF,True,False,other
 LYV,LYV,"Live Nation Entertainment, Inc. Common Stock",False,False,other
 LZB,LZB,La-Z-Boy Incorporated Common Stock,False,False,other
 LZM,LZM,Lifezone Metals Limited Ordinary Shares,False,False,other
@@ -7643,7 +7671,6 @@ MDPL,MDPL,Monarch Dividend Plus Index ETF,True,False,other
 MDST,MDST,Westwood Salient Enhanced Midstream Income ETF,True,False,other
 MDT,MDT,Medtronic plc. Ordinary Shares,False,False,other
 MDU,MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",False,False,other
-MDV,MDV,"Modiv Industrial, Inc. Class C Common Stock",False,False,other
 MDY,MDY,State Street SPDR S&P MIDCAP 400 ETF Trust,True,False,other
 MDYG,MDYG,State Street SPDR S&P 400 Mid Cap Growth ETF,True,False,other
 MDYV,MDYV,State Street SPDR S&P 400 Mid Cap Value ETF,True,False,other
@@ -7769,6 +7796,9 @@ MOTO,MOTO,Guinness Atkinson Smart Transportation & Technology ETF,True,False,oth
 MOV,MOV,Movado Group Inc. Common Stock,False,False,other
 MP,MP,MP Materials Corp. Common Stock,False,False,other
 MPC,MPC,Marathon Petroleum Corporation Common Stock,False,False,other
+MPDB,MPDB,m+ DynaBuffer ETF,True,False,other
+MPDY,MPDY,m+ DualYield Autocall ETF,True,False,other
+MPIM,MPIM,m+ Income Momentum Autocall ETF,True,False,other
 MPL,MPL,Defiance Daily Target 2X Long MP ETF,True,False,other
 MPLY,MPLY,Monopoly ETF,True,False,other
 MPRO,MPRO,Monarch ProCap Index ETF,True,False,other
@@ -7777,6 +7807,7 @@ MPU,MPU,Mega Matrix Inc. Class A Ordinary Shares,False,False,other
 MPV,MPV,Barings Participation Investors Common Stock,False,False,other
 MPWC,MPWC,Corgi MPWR 2x Daily ETF,True,False,other
 MPWX,MPWX,Tradr 2X Long MPWR Daily ETF,True,False,other
+MRAX,MRAX,Tradr 2X Long MRAM Daily ETF,True,False,other
 MRCP,MRCP,PGIM S&P 500 Buffer 12 ETF - March,True,False,other
 MRGR,MRGR,ProShares Merger ETF,True,False,other
 MRK,MRK,"Merck & Company, Inc. Common Stock (new)",False,False,other
@@ -7821,6 +7852,7 @@ MSTW,MSTW,Roundhill MSTR WeeklyPay ETF,True,False,other
 MSTY,MSTY,YieldMax MSTR Option Income Strategy ETF,True,False,other
 MSTZ,MSTZ,T-Rex 2X Inverse MSTR Daily Target ETF,True,False,other
 MTA,MTA,Metalla Royalty & Streaming Ltd. Common Shares,False,False,other
+MTAW,MTAW,Meta AI Lab Ecosystem ETF,True,False,other
 MTB,MTB,M&T Bank Corporation Common Stock,False,False,other
 MTBA,MTBA,Simplify MBS ETF,True,False,other
 MTD,MTD,"Mettler-Toledo International, Inc. Common Stock",False,False,other
@@ -7868,6 +7900,7 @@ MWHS,MWHS,Skylar Electricity Futures ETF,True,False,other
 MX,MX,Magnachip Semiconductor Corporation Common Stock,False,False,other
 MXC,MXC,Mexco Energy Corporation Common Stock,False,False,other
 MXI,MXI,iShares Global Materials ETF,True,False,other
+MXLL,MXLL,Leverage Shares 2X Long MXL Daily ETF,True,False,other
 MYE,MYE,"Myers Industries, Inc. Common Stock",False,False,other
 MYLD,MYLD,Cambria Micro and SmallCap Shareholder Yield ETF,True,False,other
 MYO,MYO,Myomo Inc. Common Stock,False,False,other
@@ -7877,7 +7910,7 @@ NABL,NABL,"N-able, Inc. Common Stock",False,False,other
 NACP,NACP,Impact Shares NAACP Minority Empowerment ETF,True,False,other
 NAIL,NAIL,Direxion Daily Homebuilders & Supplies Bull 3X ETF,True,False,other
 NAK,NAK,"Northern Dynasty Minerals, Ltd. Common Stock",False,False,other
-NANC,NANC,Unusual Whales Subversive Democratic Trading ETF,True,False,other
+NANC,NANC,Subversive Congressional Democrats Trading ETF,True,False,other
 NANR,NANR,State Street SPDR S&P North American Natural Resources ETF,True,False,other
 NAPR,NAPR,Innovator Growth-100 Power Buffer ETF - April,True,False,other
 NASA,NASA,Tema Space Innovators ETF,True,False,other
@@ -8087,6 +8120,7 @@ O,O,Realty Income Corporation Common Stock,False,False,other
 OACP,OACP,OneAscent Core Plus Bond ETF,True,False,other
 OAEM,OAEM,OneAscent Emerging Markets ETF,True,False,other
 OAIM,OAIM,OneAscent International Equity ETF,True,False,other
+OAIW,OAIW,OpenAI Lab Ecosystem ETF,True,False,other
 OAKG,OAKG,Oakmark Global Large Cap ETF,True,False,other
 OAKI,OAKI,Oakmark International Large Cap ETF,True,False,other
 OAKM,OAKM,Oakmark U.S. Large Cap ETF,True,False,other
@@ -8101,6 +8135,7 @@ OBOR,OBOR,KraneShares MSCI One Belt One Road Index ETF,True,False,other
 OC,OC,Owens Corning Inc Common Stock New,False,False,other
 OCDB,OCDB,Aptus October Deep Buffer ETF,True,False,other
 OCIO,OCIO,ClearShares OCIO ETF,True,False,other
+OCNL,OCNL,T-REX 2X Long DOCN Daily Target ETF,True,False,other
 OCTB,OCTB,Aptus October Buffer ETF,True,False,other
 OCTH,OCTH,Innovator Premium Income 20 Barrier ETF - October,True,False,other
 OCTJ,OCTJ,Innovator Premium Income 30 Barrier ETF - October,True,False,other
@@ -8173,6 +8208,7 @@ OPFI,OPFI,OppFi Inc. Class A Common Stock,False,False,other
 OPHC,OPHC,"OptimumBank Holdings, Inc. Common Stock",False,False,other
 OPLN,OPLN,"OPENLANE, Inc. Common Stock",False,False,other
 OPPE,OPPE,WisdomTree European Opportunities Fund,True,False,other
+OPPG,OPPG,WisdomTree GeoAlpha Opportunities Fund,True,False,other
 OPTT,OPTT,"Ocean Power Technologies, Inc. Common Stock",False,False,other
 OPTU,OPTU,"Optimum Communications, Inc. Class A common stock",False,False,other
 OPY,OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)",False,False,other
@@ -8183,7 +8219,6 @@ ORC,ORC,"Orchid Island Capital, Inc. Common Stock",False,False,other
 ORCL,ORCL,Oracle Corporation Common Stock,False,False,other
 ORCZ,ORCZ,Tradr 2X Short ORCL Daily ETF,True,False,other
 ORI,ORI,Old Republic International Corporation Common Stock,False,False,other
-ORLA,ORLA,Orla Mining Ltd. Common Shares,False,False,other
 ORN,ORN,"Orion Group Holdings, Inc. Common",False,False,other
 ORO,ORO,Arrow Valtoro ETF,True,False,other
 OSCR,OSCR,"Oscar Health, Inc. Class A Common Stock",False,False,other
@@ -8297,6 +8332,7 @@ PEG,PEG,Public Service Enterprise Group Incorporated Common Stock,False,False,ot
 PEJ,PEJ,Invesco Leisure and Entertainment ETF,True,False,other
 PEMX,PEMX,Putnam Emerging Markets ex-China ETF,True,False,other
 PEN,PEN,"Penumbra, Inc. Common Stock",False,False,other
+PENU,PENU,T-REX 2X Long PENG Daily Target ETF,True,False,other
 PERF,PERF,Perfect Corp. Class A Ordinary Share,False,False,other
 PEVC,PEVC,Pacer PE/VC ETF,True,False,other
 PEW,PEW,GrabAGun Digital Holdings Inc. Common Stock,False,False,other
@@ -8329,6 +8365,7 @@ PHEQ,PHEQ,Parametric Hedged Equity ETF,True,False,other
 PHGE,PHGE,BiomX Inc. COmmon Stock,False,False,other
 PHIN,PHIN,PHINIA Inc. Common Stock,False,False,other
 PHM,PHM,"PulteGroup, Inc. Common Stock",False,False,other
+PHOX,PHOX,Aura AI Photonics ETF,True,False,other
 PHR,PHR,"Phreesia, Inc. Common Stock",False,False,other
 PHYL,PHYL,PGIM Active High Yield Bond ETF,True,False,other
 PHYS,PHYS,Sprott Physical Gold Trust ETV,True,False,other
@@ -8349,7 +8386,7 @@ PJAN,PJAN,Innovator U.S. Equity Power Buffer ETF - January,True,False,other
 PJFG,PJFG,PGIM Jennison Focused Growth ETF,True,False,other
 PJFM,PJFM,PGIM Jennison Focused Mid-Cap ETF,True,False,other
 PJFV,PJFV,PGIM Jennison Focused Value ETF,True,False,other
-PJIO,PJIO,PGIM Jennison International Opportunities ETF,True,False,other
+PJIO,PJIO,PGIM Jennison Focused International Equity ETF,True,False,other
 PJP,PJP,Invesco Pharmaceuticals ETF,True,False,other
 PJT,PJT,PJT Partners Inc. Class A Common Stock,False,False,other
 PJUL,PJUL,Innovator U.S. Equity Power Buffer ETF - July,True,False,other
@@ -8527,6 +8564,7 @@ PZT,PZT,Invesco New York AMT-Free Municipal Bond ETF,True,False,other
 Q,Q,"Qnity Electronics, Inc. Common Stock",False,False,other
 QAI,QAI,NYLI Hedge Multi-Strategy Tracker ETF,True,False,other
 QARP,QARP,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,True,False,other
+QAU,QAU,Corgi Growth & Technology 10% Structured Buffer ETF - August Series,True,False,other
 QBER,QBER,TrueShares Quarterly Bear Hedge ETF,True,False,other
 QBF,QBF,Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,True,False,other
 QBIF,QBIF,AllianzIM International Equity Buffer15 ETF,True,False,other
@@ -8585,6 +8623,7 @@ QMY,QMY,Corgi Growth & Technology 10% Structured Buffer ETF - May Series,True,Fa
 QNC,QNC,Quantum eMotion Corp. Common Shares,False,False,other
 QNTU,QNTU,Tradr 2X Long QNT Daily ETF,True,False,other
 QPX,QPX,AdvisorShares Q Dynamic Growth ETF,True,False,other
+QQAU,QQAU,Corgi Growth & Technology 15% Structured Buffer ETF - August Series,True,False,other
 QQH,QQH,HCM Defender 100 Index ETF,True,False,other
 QQJL,QQJL,Corgi Growth & Technology 15% Structured Buffer ETF - July Series,True,False,other
 QQJN,QQJN,Corgi Growth & Technology 15% Structured Buffer ETF - June Series,True,False,other
@@ -8633,7 +8672,6 @@ RAMP,RAMP,"LiveRamp Holdings, Inc. Common Stock",False,False,other
 RAMZ,RAMZ,T-REX 2X Inverse DRAM Daily Target ETF,True,False,other
 RANK,RANK,Defiance KSM TipRanks Analyst ETF,True,False,other
 RAVI,RAVI,FlexShares Ultra-Short Income Fund,True,False,other
-RAYJ,RAYJ,Rayliant SMDAM Japan Equity ETF,True,False,other
 RB,RB,ProShares Russell 2000 Dynamic Buffer ETF,True,False,other
 RBA,RBA,"RB Global, Inc. Common Stock",False,False,other
 RBC,RBC,RBC Bearings Incorporated Common Stock,False,False,other
@@ -8720,6 +8758,7 @@ RITA,RITA,ETFB Green SRI REITs ETF,True,False,other
 RITM,RITM,Rithm Capital Corp. Common Stock,False,False,other
 RIVC,RIVC,Corgi RIVN 2x Daily ETF,True,False,other
 RIZE,RIZE,Principal Inflation Protection ETF,True,False,other
+RJCA,RJCA,RJ ClariVest Capital Appreciation ETF,True,False,other
 RJDI,RJDI,RJ Eagle GCM Dividend Select Income ETF,True,False,other
 RJF,RJF,"Raymond James Financial, Inc. Common Stock",False,False,other
 RJMI,RJMI,RJ Eagle Municipal Income ETF,True,False,other
@@ -8813,7 +8852,7 @@ RTX,RTX,RTX Corporation Common Stock,False,False,other
 RULE,RULE,Adaptive Core ETF,True,False,other
 RVER,RVER,Trenchless Fund ETF,True,False,other
 RVLV,RVLV,"Revolve Group, Inc. Class A Common Stock",False,False,other
-RVNU,RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,True,False,other
+RVNU,RVNU,Xtrackers Municipal Infrastructure Revenue Bond Active ETF,True,False,other
 RVP,RVP,"Retractable Technologies, Inc. Common Stock",False,False,other
 RVTY,RVTY,"Revvity, Inc. Common Stock",False,False,other
 RW,RW,Rainwater Equity ETF,True,False,other
@@ -8872,6 +8911,7 @@ SBTU,SBTU,T-REX 2X Long SBET Daily Target ETF,True,False,other
 SBXD,SBXD,SilverBox Corp IV Class A Ordinary Shares,False,False,other
 SBXE,SBXE,SilverBox Corp V Class A Ordinary Shares,False,False,other
 SCAP,SCAP,Infrastructure Capital Small Cap Income ETF,True,False,other
+SCAU,SCAU,Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series,True,False,other
 SCC,SCC,ProShares UltraShort Consumer Discretionary,True,False,other
 SCCO,SCCO,Southern Copper Corporation Common Stock,False,False,other
 SCCR,SCCR,Schwab Core Bond ETF,True,False,other
@@ -9021,6 +9061,7 @@ SIO,SIO,Touchstone Strategic Income ETF,True,False,other
 SIOO,SIOO,VistaShares Target 15 S&P 100 Distribution ETF,True,False,other
 SITC,SITC,SITE Centers Corp. Common Stock,False,False,other
 SITE,SITE,"SiteOne Landscape Supply, Inc. Common Stock",False,False,other
+SITX,SITX,Tradr 2X Long SITM Daily ETF,True,False,other
 SIVR,SIVR,abrdn Physical Silver Shares ETF,True,False,other
 SIXA,SIXA,ETC 6 Meridian Mega Cap Equity ETF,True,False,other
 SIXD,SIXD,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,True,False,other
@@ -9132,6 +9173,7 @@ SNOY,SNOY,YieldMax SNOW Option Income Strategy ETF,True,False,other
 SNPD,SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,True,False,other
 SNPE,SNPE,Xtrackers S&P 500 Scored & Screened ETF,True,False,other
 SNPG,SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,True,False,other
+SNSC,SNSC,SunScout Holding Limited Class A Ordinary Shares,False,False,other
 SNTH,SNTH,MRP SynthEquity ETF,True,False,other
 SNTQ,SNTQ,MRP SynthEquity Nasdaq 100 ETF,True,False,other
 SNX,SNX,TD SYNNEX Corporation Common Stock,False,False,other
@@ -9284,6 +9326,7 @@ STEN,STEN,iShares Large Cap 10% Target Buffer Sep ETF,True,False,other
 STHH,STHH,STMicroelectronics NV ADRhedged,True,False,other
 STIP,STIP,iShares 0-5 Year TIPS Bond ETF,True,False,other
 STLA,STLA,Stellantis N.V. Common Shares,False,False,other
+STLL,STLL,Leverage Shares 2X Long STRL Daily ETF,True,False,other
 STLR,STLR,Stellar ETF,True,False,other
 STLU,STLU,2x Stellar ETF,True,False,other
 STM,STM,STMicroelectronics N.V. Common Stock,False,False,other
@@ -9445,7 +9488,7 @@ TGE,TGE,The Generation Essentials Group Class A Ordinary Shares,False,False,othe
 TGEN,TGEN,Tecogen Inc. Common Stock,False,False,other
 TGLB,TGLB,T. Rowe Price Global Equity ETF,True,False,other
 TGLR,TGLR,Wedbush LAFFER TENGLER New Era Value ETF,True,False,other
-TGLS,TGLS,Tecnoglass Inc. Common Stock,False,False,other
+TGLS,TGLS,Tecnoglass Holdings Inc. Common Stock,False,False,other
 TGRT,TGRT,T. Rowe Price Growth ETF,True,False,other
 TGRW,TGRW,T. Rowe Price Growth Stock ETF,True,False,other
 TGS,TGS,Transportadora de Gas del Sur SA TGS Common Stock,False,False,other
@@ -9554,6 +9597,7 @@ TOUS,TOUS,T. Rowe Price International Equity ETF,True,False,other
 TOV,TOV,JLens 500 Jewish Advocacy U.S. ETF,True,False,other
 TOVX,TOVX,"Theriva Biologics, Inc. Common Stock",False,False,other
 TOXR,TOXR,21Shares XRP ETF,True,False,other
+TP,TP,Ticketplus Ltd. Ordinary Shares,False,False,other
 TPAY,TPAY,Roundhill S&P 500 Target 10 Managed Distribution ETF,True,False,other
 TPB,TPB,"Turning Point Brands, Inc. Common Stock",False,False,other
 TPC,TPC,Tutor Perini Corporation Common Stock,False,False,other
@@ -9712,6 +9756,7 @@ UMAC,UMAC,"Unusual Machines, Inc. Common Stock",False,False,other
 UMAL,UMAL,Defiance Daily Target 2X Long UMAC ETF,True,False,other
 UMAR,UMAR,Innovator U.S. Equity Ultra Buffer ETF - March,True,False,other
 UMAY,UMAY,Innovator U.S. Equity Ultra Buffer ETF - May,True,False,other
+UMCU,UMCU,Tradr 2X Long UMC Daily ETF,True,False,other
 UMCX,UMCX,Corgi UMC 2x Daily ETF,True,False,other
 UMDD,UMDD,UltraPro MidCap400,True,False,other
 UMH,UMH,"UMH Properties, Inc. Common Stock",False,False,other
@@ -10078,6 +10123,7 @@ WZRD,WZRD,Opportunistic Trader ETF,True,False,other
 XA,XA,Corgi AI Cybersecurity ETF,True,False,other
 XAGG,XAGG,Eaton Vance Income Opportunities ETF,True,False,other
 XAGI,XAGI,Corgi AGIX 2x Daily ETF,True,False,other
+XAIW,XAIW,SpaceXAI Lab Ecosystem ETF,True,False,other
 XAPR,XAPR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,True,False,other
 XAR,XAR,State Street SPDR S&P Aerospace & Defense ETF,True,False,other
 XAUG,XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,True,False,other
@@ -10267,12 +10313,12 @@ YINN,YINN,Direxion Daily FTSE China Bull 3X ETF,True,False,other
 YJUN,YJUN,FT Vest International Equity Moderate Buffer ETF - June,True,False,other
 YLD,YLD,Principal Active High Yield ETF,True,False,other
 YLDW,YLDW,Westwood Enhanced Income Opportunity ETF,True,False,other
+YLDY,YLDY,Horizon High Income ETF,True,False,other
 YMAG,YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,True,False,other
 YMAR,YMAR,FT Vest International Equity Moderate Buffer ETF - March,True,False,other
 YMAX,YMAX,YieldMax Universe Fund of Option Income ETFs,True,False,other
 YOLO,YOLO,AdvisorShares Pure Cannabis ETF,True,False,other
 YOU,YOU,"Clear Secure, Inc. Class A Common Stock",False,False,other
-YPF,YPF,YPF Sociedad Anonima Common Stock,False,False,other
 YSEP,YSEP,FT Vest International Equity Buffer ETF - September,True,False,other
 YSPC,YSPC,YieldMax SPCX Option Income Strategy ETF,True,False,other
 YSS,YSS,York Space Systems Inc. Common Stock,False,False,other
