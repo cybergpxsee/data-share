@@ -1,17 +1,29 @@
 symbol,yahoo_symbol,name,reason,avg_dollar_volume_30d_usd,valid_days
-BATRA,BATRA,"Atlanta Braves Holdings, Inc. - Series A Common Stock",avg_dollar_volume_30d_below_15m_usd,3501660.15,43
+AD,AD,"Array Digital Infrastructure, Inc. Common Shares",avg_dollar_volume_30d_below_15m_usd,7709359.6,40
+AKO.A,AKO-A,Embotelladora Andina S.A. Common Stock,avg_dollar_volume_30d_below_15m_usd,13476.07,40
+AKO.B,AKO-B,Embotelladora Andina S.A. Common Stock,avg_dollar_volume_30d_below_15m_usd,156202.2,41
+ALH,ALH,Alliance Laundry Holdings Inc. Common Stock,avg_dollar_volume_30d_below_15m_usd,14287389.81,40
+BATRA,BATRA,"Atlanta Braves Holdings, Inc. - Series A Common Stock",avg_dollar_volume_30d_below_15m_usd,3515508.79,40
+BBUC,BBUC,Brookfield Business Corporation Class A Subordinate Voting Shares,avg_dollar_volume_30d_below_15m_usd,9939726.15,43
+BF.A,BF-A,Brown Forman Inc Class A Common Stock,avg_dollar_volume_30d_below_15m_usd,3713767.5,40
+BIO.B,BIO-B,"Bio-Rad Laboratories, Inc. Class B  Common Stock",avg_dollar_volume_30d_below_15m_usd,6083.27,40
+BLCO,BLCO,Bausch + Lomb Corporation Common Shares,avg_dollar_volume_30d_below_15m_usd,6611647.17,43
+BNT,BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,avg_dollar_volume_30d_below_15m_usd,849758.93,40
+BWLP,BWLP,BW LPG Limited Common Shares,avg_dollar_volume_30d_below_15m_usd,6783995.83,40
+CAAP,CAAP,Corporacion America Airports SA Common Shares,avg_dollar_volume_30d_below_15m_usd,4387156.44,43
 CHRN,CHRN,ChronoScale Holdings Corporation - Common Stock,avg_dollar_volume_30d_below_15m_usd,6111422.17,43
-CMBT,CMBT,CMB.TECH NV Ordinary Shares,avg_dollar_volume_30d_below_15m_usd,13656351.94,43
-CRVL,CRVL,CorVel Corp. - Common Stock,avg_dollar_volume_30d_below_15m_usd,10809844.29,43
-DOO,DOO,BRP Inc. - Common Subordinate Voting Shares,avg_dollar_volume_30d_below_15m_usd,12414698.37,43
-EE,EE,"Excelerate Energy, Inc. Class A Common Stock",avg_dollar_volume_30d_below_15m_usd,11342045.73,43
-EROK,EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests",avg_dollar_volume_30d_below_15m_usd,4113547.25,43
-MOG.B,MOG-B,Moog Inc. Class B Common Stock,avg_dollar_volume_30d_below_15m_usd,43377.43,43
-OGC,OGC,OceanaGold Corporation Common Shares,avg_dollar_volume_30d_below_15m_usd,11303016.57,43
-PBLS,PBLS,"Parabilis Medicines, Inc. - Common Stock",avg_dollar_volume_30d_below_15m_usd,12933111.91,43
-PINC,PINC,PGIM Securitized Income ETF,avg_dollar_volume_30d_below_15m_usd,11491.4,43
+CMBT,CMBT,CMB.TECH NV Ordinary Shares,avg_dollar_volume_30d_below_15m_usd,13524497.73,42
+CRVL,CRVL,CorVel Corp. - Common Stock,avg_dollar_volume_30d_below_15m_usd,11211463.73,40
+DOO,DOO,BRP Inc. - Common Subordinate Voting Shares,avg_dollar_volume_30d_below_15m_usd,12267361.77,40
+EE,EE,"Excelerate Energy, Inc. Class A Common Stock",avg_dollar_volume_30d_below_15m_usd,11318055.67,42
+EROK,EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests",avg_dollar_volume_30d_below_15m_usd,3887683.55,42
+GEF.B,GEF-B,"Greif, Inc. Corporation Class B Common Stock",avg_dollar_volume_30d_below_15m_usd,6551941.98,43
+HGTY,HGTY,"Hagerty, Inc. Class A Common Stock",avg_dollar_volume_30d_below_15m_usd,1838144.77,42
+MOG.B,MOG-B,Moog Inc. Class B Common Stock,avg_dollar_volume_30d_below_15m_usd,49255.63,40
+OGC,OGC,OceanaGold Corporation Common Shares,avg_dollar_volume_30d_below_15m_usd,10846580.81,40
+PBLS,PBLS,"Parabilis Medicines, Inc. - Common Stock",avg_dollar_volume_30d_below_15m_usd,13256257.26,40
+PINC,PINC,PGIM Securitized Income ETF,avg_dollar_volume_30d_below_15m_usd,13326.43,40
 PLSE,PLSE,"Pulse Biosciences, Inc - Common Stock",avg_dollar_volume_30d_below_15m_usd,13056647.94,40
-PS,PS,Pershing Square Inc. Common Stock,avg_dollar_volume_30d_below_15m_usd,5202020.58,43
-PSO,PSO,"Pearson, Plc Common Stock",avg_dollar_volume_30d_below_15m_usd,13832083.57,43
-RUSHB,RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",avg_dollar_volume_30d_below_15m_usd,7641598.67,41
-TRMD,TRMD,TORM plc - Class A Common Stock,avg_dollar_volume_30d_below_15m_usd,13983945.67,43
+PS,PS,Pershing Square Inc. Common Stock,avg_dollar_volume_30d_below_15m_usd,5400193.27,40
+PSO,PSO,"Pearson, Plc Common Stock",avg_dollar_volume_30d_below_15m_usd,13865679.56,40
+RUSHB,RUSHB,"Rush Enterprises, Inc. - Class B Common Stock",avg_dollar_volume_30d_below_15m_usd,7926328.49,38
